@@ -1,0 +1,6 @@
+{
+  "name": "Religion, Politics, and Baby Names",
+  "tagline": "Using trends in baby names to predict religious trends",
+  "body": "### Introduction\r\n\r\nFor our project we attempted to examine the connection between trends in baby names and other social trends like religiosity and election results. Specifically, we demonstrate a relationship between the preponderance of biblical names in a state and Christianity in that state. Then, by drawing a connection between how Christian a state is and how socially conservative it is, we attempt to use trends in baby names to directly predict the outcome of presidential elections in different states.\r\n\r\n### Analyses\r\n\r\n- [Introduction](./docs/introduction.html)\r\n\r\n- [Exploration](./docs/exploration.html)\r\n\r\n- [Religion and Naming](./docs/religiosity.html)\r\n\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
